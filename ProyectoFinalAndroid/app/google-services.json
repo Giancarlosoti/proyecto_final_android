@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "534317910133",
+    "firebase_url": "https://fir-miemergencia-default-rtdb.firebaseio.com",
+    "project_id": "fir-miemergencia",
+    "storage_bucket": "fir-miemergencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534317910133:android:7aa91e3975f57cabd7503c",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2Ja_s2B_9xnL7DBEKZpcEMu0AC_91MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
